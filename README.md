@@ -1,0 +1,4 @@
+otodidak
+========
+
+mengganti attribut flashdisc
